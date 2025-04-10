@@ -1,0 +1,42 @@
+
+1. Culinary Learning Tool
+Audience: Cooking enthusiasts or beginners
+Use: Upload a dish image to learn how to make it at home with step-by-step guidance.
+Benefit: Encourages learning through visual recognition rather than searching by name.
+
+---
+
+2. Restaurant Menu Re-creation
+Audience: Food bloggers, chefs
+Use: See a dish at a restaurant, snap a photo, and try to recreate it at home with an AI-suggested recipe.
+Benefit: Inspiration for home-cooked versions of gourmet meals.
+
+---
+
+3. Diet Tracking / Calorie Estimation (Extended Feature)
+Audience: Health-conscious users
+Use: Identify what dish you’re eating to later link with a nutrition API or calorie estimator.
+Benefit: Helps with dietary logging via image recognition.
+
+---
+
+4. Cultural Food Discovery
+Audience: Travelers, food explorers
+Use: Upload images of unfamiliar food to get an idea of what it is and how it’s traditionally prepared.
+Benefit: Promotes cross-cultural culinary understanding.
+
+---
+
+5. Accessibility for the Visually Impaired
+Audience: Visually impaired users (with screen readers)
+Use: Use AI to describe food images and provide audio recipe guidance (with TTS added).
+Benefit: Makes recipe content more accessible.
+
+---
+
+6. Kitchen Inventory + Suggestion (Future Expansion)
+Use: Snap an image of what's been cooked, and the app suggests similar recipes or improvements.
+Benefit:  AI kitchen assistant for everyday cooking.
+
+---
+

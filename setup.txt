@@ -1,0 +1,46 @@
+Setting Up the Virtual Environment and Running the Project
+
+
+1. Create and Activate Virtual Environment
+For Windows (Command Prompt)
+```
+python -m venv venv
+venv\Scripts\activate
+```
+For macOS/Linux
+```
+python -m venv venv
+source venv/bin/activate
+```
+
+---
+
+2. Install Dependencies
+Ensure your virtual environment is active, then install the required packages:
+```
+pip install -r requirements.txt
+```
+
+---
+
+3. Install and Pull Ollama Model
+Download and install Ollama from [Ollama's official site](https://ollama.com/).  
+Then, pull the **LLaVA** model:
+```
+ollama pull llava
+```
+
+---
+
+4. Run the Streamlit Application
+Once everything is set up, start the app using:
+```
+streamlit run app.py
+```
+
+---
+
+5. Deactivate Virtual Environment (If Needed)
+When you're done, deactivate the virtual environment:
+```
+deactivate
