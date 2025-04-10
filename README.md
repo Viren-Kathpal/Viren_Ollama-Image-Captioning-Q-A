@@ -10,6 +10,8 @@ This is a Streamlit-based web app that allows users to upload an image, generate
 - Runs locally using Ollama (no API required)
 
 ---
+![Demo](Demo.mp4)
+
 
 # Sample Images and Questions
 
