@@ -54,7 +54,7 @@ This is a Streamlit-based web app that allows users to upload an image, generate
 ---
 
 ## Setup Instructions
-Follow the instructions in `GitHub-Setup.txt` to  run the project.
+Follow the instructions in `setup.txt` to  run the project.
 
 ---
 
