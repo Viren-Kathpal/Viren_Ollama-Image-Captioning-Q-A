@@ -14,7 +14,7 @@ This is a Streamlit-based web app that allows users to upload an image, generate
 # Sample Images and Questions
 
 # 1. City Skyline
-![City Skyline](sample_images/city.jpg)
+![City Skyline](Sample_images/city.jpg)
 
 **Example Questions:**
 - What city is this?
@@ -24,7 +24,7 @@ This is a Streamlit-based web app that allows users to upload an image, generate
 ---
 
 ### **2. Cute Cat**
-![Cute Cat](sample_images/cat.jpg)
+![Cute Cat](Sample_images/cat.jpg)
 
 **Example Questions:**
 - What breed is this cat?
@@ -34,7 +34,7 @@ This is a Streamlit-based web app that allows users to upload an image, generate
 ---
 
 ### **3. Mountain Landscape**
-![Mountain](sample_images/mountain.jpg)
+![Mountain](Sample_images/mountain.jpg)
 
 **Example Questions:**
 - What is the weather like in this image?
@@ -44,7 +44,7 @@ This is a Streamlit-based web app that allows users to upload an image, generate
 ---
 
 ### **4. Delicious Food**
-![Delicious Food](sample_images/food.jpg)
+![Delicious Food](Sample_images/food.jpg)
 
 **Example Questions:**
 - What type of dish is this?
