@@ -1,0 +1,27 @@
+# Image 1: City Skyline (city.jpg)
+Description: A beautiful city skyline at night with illuminated skyscrapers.
+Example Questions:
+1. What city is this?
+2. How many tall buildings can you see?
+3. Is there a river in this image?
+
+# Image 2: Cute Cat (cat.jpg)
+Description: The image shows a tabby cat with distinctive black stripes on its face and body.
+Example Questions:
+1. What breed is this cat?
+2. What expression does the cat have?
+3. What color are its eyes?
+
+# Image 3: Mountain Landscape (mountain.jpg)
+Description: The image depicts a majestic mountain range under a sky that transitions from a light orange near the horizon to a deep blue at the top.
+Example Questions:
+1. What is the weather like in this image?
+2. What kind of terrain is visible?
+3. Are there any trees or vegetation?
+
+# Image 4: Delicious Food (food.jpg)
+Description:  The image shows a variety of foods arranged in what appears to be a casual display.
+Example Questions:
+1. What type of dish is this?
+2. What ingredients might be in this meal?
+3. Does this food look spicy?
